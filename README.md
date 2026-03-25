@@ -1,4 +1,5 @@
-# 🏥 Doctor Appointment Booking App 
+# 🏥 Doctor Appointment System
+
 
 This project is a full-stack web application that allows patients to book appointments with doctors online. It provides a platform for doctors to manage their profiles and schedules, and for administrators to oversee the entire system. The application aims to streamline the appointment booking process, making it more efficient and convenient for both patients and healthcare providers.
 
@@ -6,6 +7,7 @@ This project is a full-stack web application that allows patients to book appoin
 
 *   **User Authentication:** Secure registration and login for patients, doctors, and administrators.
 *   **Doctor Profiles:** Doctors can create and manage their profiles, including specialization, experience, and availability.
+*   **Patient Profiles:** Patients can create and manage their profiles, including their appointments, medical reports etc.
 *   **Appointment Booking:** Patients can easily search for doctors and book appointments based on their availability.
 *   **Admin Panel:** Administrators can manage users, doctors, and appointment statuses.
 *   **Notifications:** Real-time notifications for appointment confirmations, cancellations, and updates.
